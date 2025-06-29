@@ -12,7 +12,6 @@ Software Developer ({ JavaScript, Python, AI })
 I grew up with R2D2. I fell in love with coding using BASIC to play Jingle Beeps. I'm a software developer who majored in English.
 
 * 🌍  I'm based in Pluto.
-* 😄  Pronouns: lir/lirren
 * 💬  Ask me about DOS games, chai and literary criticism of Pride & Prejudice.
 * ✉️  You can contact me at [idril@chaistudiolabs.com](mailto:idril@chaistudiolabs.com)
 * 🌱  I'm learning to create better React apps.
